@@ -47,6 +47,4 @@ Here are some ideas to get you started:
 
 #
 
-### 📊 Stats
-
 ![Lane's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanesnively&layout=compact)
